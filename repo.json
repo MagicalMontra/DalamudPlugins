@@ -3,8 +3,8 @@
         "Author":  "Sett",
         "Name":  "Vendor Runner",
         "InternalName":  "VendorRunner",
-        "AssemblyVersion":  "0.1.0.0",
-        "Description":  "Persistent currency lists, right-click item adding, native commands, dependency-assisted vendor navigation and verified one-shot purchases. Development source build; live testing required.",
+        "AssemblyVersion":  "0.1.0.2",
+        "Description":  "Persistent currency lists, right-click item adding, native commands, mounted-flight vendor navigation and verified one-shot purchases. Beast Tribe / Allied Society vendors are excluded, including their gil shops. Development build; live testing required.",
         "ApplicableVersion":  "any",
         "Tags":  [
                      "shopping",
@@ -19,14 +19,11 @@
         "LoadPriority":  0,
         "Punchline":  "One-shot gil-vendor shopping with permanent lists and automation status.",
         "AcceptsFeedback":  true,
-        "RepoUrl":  "https://github.com/MagicalMontra/DalamudPlugins",
-        "IsHide":  false,
-        "IsTestingExclusive":  false,
-        "DownloadLinkInstall":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/VendorRunner-v0.1.0.0/VendorRunner-0.1.0.0.zip",
-        "DownloadLinkUpdate":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/VendorRunner-v0.1.0.0/VendorRunner-0.1.0.0.zip",
-        "DownloadLinkTesting":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/VendorRunner-v0.1.0.0/VendorRunner-0.1.0.0.zip",
-        "LastUpdate":  1792055345,
-        "Changelog":  "Development build. Requires Item Vendor Location, Lifestream and vnavmesh. Start with a one-item test; live validation is still required."
+        "DownloadLinkInstall":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/VendorRunner-v0.1.0.2/VendorRunner-0.1.0.2.zip",
+        "DownloadLinkUpdate":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/VendorRunner-v0.1.0.2/VendorRunner-0.1.0.2.zip",
+        "DownloadLinkTesting":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/VendorRunner-v0.1.0.2/VendorRunner-0.1.0.2.zip",
+        "LastUpdate":  1792061162,
+        "RepoUrl":  "https://github.com/MagicalMontra/DalamudPlugins"
     },
     {
         "Author":  "wah",
