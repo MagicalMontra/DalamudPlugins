@@ -1,0 +1,61 @@
+[
+    {
+        "Author":  "Sett",
+        "Name":  "Vendor Runner",
+        "InternalName":  "VendorRunner",
+        "AssemblyVersion":  "0.1.0.0",
+        "Description":  "Persistent currency lists, right-click item adding, native commands, dependency-assisted vendor navigation and verified one-shot purchases. Development source build; live testing required.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "shopping",
+                     "vendor",
+                     "automation",
+                     "gil"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "One-shot gil-vendor shopping with permanent lists and automation status.",
+        "AcceptsFeedback":  true,
+        "RepoUrl":  "https://github.com/MagicalMontra/DalamudPlugins",
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/VendorRunner-v0.1.0.0/VendorRunner-0.1.0.0.zip",
+        "DownloadLinkUpdate":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/VendorRunner-v0.1.0.0/VendorRunner-0.1.0.0.zip",
+        "DownloadLinkTesting":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/VendorRunner-v0.1.0.0/VendorRunner-0.1.0.0.zip",
+        "LastUpdate":  1792055345,
+        "Changelog":  "Development build. Requires Item Vendor Location, Lifestream and vnavmesh. Start with a one-item test; live validation is still required."
+    },
+    {
+        "Author":  "wah",
+        "Name":  "wahventory (Refresh Fork)",
+        "InternalName":  "wahventory",
+        "AssemblyVersion":  "20.0.0.9",
+        "Description":  "An inventory management plugin\r\n• Smart safety filters\r\n• Market price integration via Universalis\r\n• Bulk discard functionality\r\n• Category grouping and search\r\n• Gearset protection\r\n• /wahventory refresh command (MagicalMontra fork)\r\n• Refresh/discard completion reporting\r\n• Inventory right-click discard and blacklist submenu\r\n• Market price filters and quality-specific pricing methods",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/MagicalMontra/wahventory",
+        "Tags":  [
+                     "inventory",
+                     "management",
+                     "discard",
+                     "filter",
+                     "utility"
+                 ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "Advanced inventory management with safety filters and auto-discard",
+        "AcceptsFeedback":  true,
+        "DownloadLinkInstall":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/wahventory-v20.0.0.9/wahventory-20.0.0.9.zip",
+        "DownloadLinkUpdate":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/wahventory-v20.0.0.9/wahventory-20.0.0.9.zip",
+        "DownloadLinkTesting":  "https://github.com/MagicalMontra/DalamudPlugins/releases/download/wahventory-v20.0.0.9/wahventory-20.0.0.9.zip",
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LastUpdate":  1792055352,
+        "Changelog":  "Price filters now show matching per-item prices: \u003c 500 shows prices below 500 gil; \u003e 1000 shows prices above 1,000 gil. Both enabled use either match. Unknown prices do not match; controls still wait for refresh completion."
+    }
+]
